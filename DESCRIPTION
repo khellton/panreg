@@ -1,0 +1,12 @@
+Package: panreg
+Title: Personalized angle regression
+Version: 0.0.0.9000
+Authors@R: 
+    person("Kristoffer H.", "Hellton", , "hellton@nr.no", role = c("cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: The package supplies an algorithm for personalized angle (PAN) regression (see further details, Penalized angular regression for personalized predictions, Hellton (2021)).  
+License: `use_mit_license()`
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
